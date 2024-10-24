@@ -1,0 +1,12 @@
+# A tuple is another sequence data type that is similar to the list.
+#  A tuple consists of a number of values separetd by commas
+
+
+first_tuple=('abcd',147,2.43,'Tom',74.9)
+small_tuple=(111,'Tom')
+
+print(first_tuple)                #print complete tuple
+print(first_tuple[0])             #print first element of the tuple
+print(first_tuple[1:3])           #print element starting from 2nd till 3rd    
+print(first_tuple[2:])            #print element starting from 3rd element
+print(first_tuple + small_tuple)  #print concatenated tuples
