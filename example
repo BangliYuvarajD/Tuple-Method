@@ -1,0 +1,3 @@
+#Demo of tuple containing lists
+t=(['apple','pear','orange'])
+print(t)
