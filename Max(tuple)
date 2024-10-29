@@ -1,0 +1,6 @@
+#max(tuple):-Returns item from the tuple with maximum value.
+
+tuple1=(1200,147,2.43,1.12)
+tuple2=(213,100,289)
+print("Maximum value in: ",tuple1,"is",max(tuple1))
+print("Maximum value in:",tuple2,"is",max(tuple2))
