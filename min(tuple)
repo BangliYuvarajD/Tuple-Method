@@ -1,0 +1,6 @@
+#min(tuple):-Returns items from the tuple with minimum value.
+
+tuple1=(1200,147,2.43,1.12)
+tuple2=(213,100,289)
+print("minimum value in:", tuple1, "is", min(tuple1))
+print("minimum value in:", tuple2, "is", min(tuple2))
