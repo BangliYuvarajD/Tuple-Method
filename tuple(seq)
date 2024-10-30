@@ -1,0 +1,4 @@
+#tuple(seq):- Returns a list into a tuple.
+
+list=['abcd',147,2.43,'Tom']
+print("Tuple:",tuple(list))
